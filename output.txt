@@ -1,0 +1,7 @@
+Name: Doji	Result: Win
+
+Inventory
+Coins: 90
+Cloaks: 1
+Jumps: 1
+Coal: 8
